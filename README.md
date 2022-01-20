@@ -1,2 +1,0 @@
-# SnakesAndLadders
-Developed by Praveenkumar
